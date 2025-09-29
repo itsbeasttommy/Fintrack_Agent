@@ -1,8 +1,11 @@
 # Fintrack_Agent
 FinTrack AI Agent
+
 Overview
+
 Problem: Managing personal finances is challenging due to the difficulty of tracking and analyzing spending over time. Without automation, identifying trends or overspending in categories like Food or Rent is time-consuming and error-prone.
 Solution: The FinTrack AI Agent is a Python-based tool that automates the analysis of 5 years of spending data (Sep 2020 - Aug 2025) from an Excel file. It calculates totals, categorizes expenses, detects trends, generates visualizations, and provides budget tips to help users save money.
+
 Features
 
 Loads Data: Reads monthly spending data from spending_data_5_years.xlsx (categories: Food, Transport, Entertainment, Utilities, Rent, Other).
